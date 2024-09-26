@@ -1,0 +1,6 @@
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\array\bin\Debug\array.exe.config
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\array\bin\Debug\array.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\array\bin\Debug\array.pdb
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\array\obj\Debug\array.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\array\obj\Debug\array.pdb

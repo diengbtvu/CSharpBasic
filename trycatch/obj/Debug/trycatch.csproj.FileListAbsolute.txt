@@ -1,0 +1,6 @@
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\trycatch\bin\Debug\trycatch.exe.config
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\trycatch\bin\Debug\trycatch.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\trycatch\bin\Debug\trycatch.pdb
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\trycatch\obj\Debug\trycatch.csprojResolveAssemblyReference.cache
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\trycatch\obj\Debug\trycatch.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\trycatch\obj\Debug\trycatch.pdb

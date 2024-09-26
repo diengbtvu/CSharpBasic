@@ -1,0 +1,6 @@
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\OOP\bin\Debug\OOP.exe.config
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\OOP\bin\Debug\OOP.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\OOP\bin\Debug\OOP.pdb
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\OOP\obj\Debug\OOP.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\Ngay26092024\OOP\obj\Debug\OOP.pdb
